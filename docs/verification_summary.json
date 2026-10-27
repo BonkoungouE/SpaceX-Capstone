@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "notebooks": 7,
+  "executed_code_cells": 146,
+  "scraped_rows": 121,
+  "model_rows": 90,
+  "generated_eda_features": 80,
+  "reference_ml_features": 83,
+  "test_records": 18,
+  "test_accuracy": {
+    "Logistic regression": 0.8333333333333334,
+    "SVM": 0.8333333333333334,
+    "Decision tree": 0.8333333333333334,
+    "KNN": 0.8333333333333334
+  },
+  "best_cv_model": "Decision tree",
+  "best_cv_accuracy": 0.8767857142857143,
+  "dash_callbacks": "verified for every site and multiple payload ranges",
+  "live_api": "HTTP 522; historical fallback explicitly documented",
+  "github_repository_url": "pending author input"
+}
